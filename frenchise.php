@@ -10,7 +10,7 @@ if (!mysqli_query($con,$sql)){die('Error: ' . $mysqli_error()); }
 
 echo "<script>alert('Query submitted successfully');</script>";
 echo"<META HTTP-EQUIV='REFRESH' CONTENT='0; URL=$pageurl?message=Query submitted successfully'>";  exit(0);
-
+bgngfmgfjbgjfb
 
 } else { ?>
 <!DOCTYPE html>
